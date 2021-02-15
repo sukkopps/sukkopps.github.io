@@ -1,0 +1,133 @@
+
+.top{
+    background-color: #ca0000d9;
+     border: rosybrown;
+     border-radius: 15px;
+    
+}
+
+.h2{
+   font-size: 50px;
+   margin: auto;
+   width: 45%;
+   font-family: 'Rancho', cursive;
+    
+     
+}
+p{
+    font-size: 49px;
+    margin: 30px;
+    background-color: #f58282;
+    font-family: 'Cookie', cursive;
+    border-radius: 15px;
+   
+}
+.img{
+    margin: auto;
+    padding: auto;
+    width:300px;
+}
+.img1{
+    width: 300px;
+    margin: auto;
+    padding: auto;
+    
+    border: brown;
+    border-radius: 56px;
+    
+}
+.smile{
+    display: inline;
+    margin: auto;
+    padding: auto;
+    width: 50%;
+}
+.smile img{
+    width: 395px;
+    margin: 5px;
+    border-radius: 63px;
+}
+.promise{
+    margin: auto;
+    padding: auto;
+    width: 381px;
+}
+.promise img{
+    width: 488px;
+    border-radius: 75px;
+    padding-left:  10px;
+}
+.kiss{
+    margin: auto;
+    padding: auto;
+    width: 384px;
+}
+.kiss img{
+    width: 384px;
+    border-radius: 67px;
+}
+.funny1{
+margin: auto;
+padding: auto;
+width: 22%;
+}
+.funny1 img{
+    width: 400px;
+ border-radius: 63px;
+}
+.funny2{
+    margin: auto;
+    padding: auto;
+    width: 300px;
+
+}
+.funny2 img{
+   font-size:50px;
+    width:350px;
+    border-radius: 63px;
+
+    }
+.funny3{
+    margin: auto;
+    padding: auto;
+    width: 300px;
+
+}
+.funny3 img{
+   font-size:50px;
+    width:350px;
+    border-radius: 63px;
+}
+.funny4{
+    margin: auto;
+    padding: auto;
+    width: 300px;
+
+}
+.funny4 img{
+   font-size:50px;
+    width:350px;
+    border-radius: 63px;
+}
+.funny5{
+    margin: auto;
+    padding: auto;
+    width: 300px;
+
+}
+.funny5 img{
+   font-size:50px;
+    width:350px;
+    border-radius: 63px;
+}
+.funny6{
+    margin: auto;
+    padding: auto;
+    width: 300px;
+
+}
+.funny6 img{
+   font-size:50px;
+    width:350px;
+    border-radius: 63px;
+}
